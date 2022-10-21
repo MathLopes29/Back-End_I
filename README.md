@@ -5,3 +5,10 @@
 </div>
 
 <h3 align="center">Exercícios de <strong>Lógica de Programação</strong> - DSM 1ºSemestre <strong>(C, C++ e Java)</strong></h3>
+<br>
+<div align="center">
+    <p>Pasta da Linguagem C</p>
+    <p>Pasta da Linguagem C++</p>
+    <p>Pasta da Linguagem Java</p>
+    <p>Arquivo RAR com 100 Exercícios - Lista Final</p>
+</div>
