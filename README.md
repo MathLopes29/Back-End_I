@@ -1,7 +1,7 @@
 <h1 align="center"> Back End - Lógica de Programação </h1>
 
 <div align="center">
-  <a href=""><img src="https://i.imgur.com/3FlM7gQ.gif" height="450" weight="200" alt="Back End" border="0"></a>
+  <a href=""><img src="https://wallpaperaccess.com/full/796835.jpg" height="450" weight="200" alt="Back End" border="0"></a>
 </div>
 
 <div align="center">
