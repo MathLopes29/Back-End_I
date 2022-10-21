@@ -19,8 +19,8 @@ public class Leitor {
 		
 		JOptionPane.showMessageDialog(null,"INFORME SUA IDADE EM ANOS, MESES E DIAS");
 
-        int ANO_USER = Integer.parseInt(JOptionPane.showInputDialog("Quantos Anos:"));
-        int MES_USER = Integer.parseInt(JOptionPane.showInputDialog("Quantos Meses"));
+        	int ANO_USER = Integer.parseInt(JOptionPane.showInputDialog("Quantos Anos:"));
+        	int MES_USER = Integer.parseInt(JOptionPane.showInputDialog("Quantos Meses"));
 		int DIAS_USER = Integer.parseInt(JOptionPane.showInputDialog("Quantos Dias:"));
 		
 		MES = (MES * MES_USER);
