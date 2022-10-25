@@ -1,10 +1,15 @@
+/*
+* Esse programa junta e reune todas as verificações possíveis de um Triângulo
+* @author Matheus Lopes
+*/
+
 #include "iostream"
 #include "math.h"
 #include "cstdlib"
 
 using namespace std;
 
-int L1, L2, L3;
+int L1, L2, L3, P;
 int A1, A2, A3;
 
 void TelaLado(){
@@ -119,12 +124,19 @@ void Verifica(){
 	}
 }
 
+int Perimetro(){
+	P = (L1+L2+L3);
+	cout<<"PERIMETRO: " <<P<<endl;
+	return P;
+}
+
 int main(){
 	
 	TelaLado();
 	PerguntaLado();
 	VerificaLado();
-	cout<<endl;	
+	Perimetro();
+	cout<<"..............."<<endl;	
 	Tela();
 	Pergunta();
 	Verifica();
